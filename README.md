@@ -9,11 +9,8 @@ I am [Sumit](https://www.biodrop.io/sumitishere) Mukharjee!    </h2>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sumitishere&label=Profile%20views&color=0e75b6&style=flat" alt="sumitishere" /> </p>
 
 ## <img src="https://media2.giphy.com/media/z9vxfIMzxbTaGwBkc5/giphy_s.gif?cid=ecf05e47cjnt33447pqnhksb17ve7x5zi6bsr2dagkvtdyvh&rid=giphy_s.gif&ct=s" width="40"> &nbsp; **About me**
-- 🔭 I’m currently working on to contribute more in open-source projects.
-- 🌱 I’m currently learning DevOps
-- 👯 I’m looking to collaborate with all DevOps and cloud native beginner friendly projects.
-- 💬 Ask me about DevOps tools
-- 📫 How to reach me: **pawarpoonam1607@gmail.com**
+- 🌱 I’m currently learning Web Development and DevOps.
+- 📫 How to reach me: **sumitmukharjeeeeee@gmail.com**
 - ⚡ Fun fact: figuring out.
 
 <br/>
