@@ -49,8 +49,8 @@ I am [Sumit](https://www.biodrop.io/sumitishere) Mukharjee!    </h2>
 ## <img src="https://media0.giphy.com/media/YZuPLv7YPBzBRXuWnf/giphy.gif?cid=ecf05e47b1vr1pwvpcs8wfyoilhcn8g0nj1jyqo13mhb5dcg&rid=giphy.gif&ct=s" width="40"> &nbsp; **GitHub Analytics**
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Poonam1607)](https://git.io/streak-stats)
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Poonam1607&theme=vision-friendly-dark&show_icons=true" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sumitishere)](https://git.io/streak-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sumitishere&theme=vision-friendly-dark&show_icons=true" />
 
 
 
