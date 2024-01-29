@@ -1,13 +1,13 @@
 const axios = require('axios');
 const fs = require('fs');
 
-const HASHNODE_API_KEY = process.env.4a0f9d5a-33e6-4f99-8db6-36bf488c68c0;
+const HASHNODE_API_KEY = process.env.HASHNODE_API_KEY;
 
 const fetchHashnodeBlogs = async () => {
   try {
     const response = await axios.get('https://api.hashnode.com/v1/me/posts', {
       headers: {
-        Authorization: 4a0f9d5a-33e6-4f99-8db6-36bf488c68c0,
+        Authorization: HASHNODE_API_KEY,
       },
     });
 
