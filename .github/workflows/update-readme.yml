@@ -2,7 +2,7 @@ name: Update Hashnode Blogs
 
 on:
   schedule:
-    - cron: '0 */8 * * *' # Schedule this workflow to run 8hours a day
+    - cron: '0 0 * * *' # Cron job for once in 24 hours
 
 jobs:
   update-readme:
@@ -23,4 +23,4 @@ jobs:
       - name: Update Readme
         run: npm run update-readme
         env:
-          HASHNODE_API_KEY: ${{ 4a0f9d5a-33e6-4f99-8db6-36bf488c68c0 }}
+          HASHNODE_API_KEY: ${{ secrets.HASHNODE_API_KEY }}
